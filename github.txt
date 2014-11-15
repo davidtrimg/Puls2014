@@ -59,3 +59,73 @@ REGLAS DE XHTML
 
 Diseño y usabilidad: como lógica de diseño (saber dónde ubicar cada cosa).
 
+Buenas prácticas
+ - Practicar, no memorizar.
+ - Sé curioso y busca los orígenes.
+ - Conoce de todo, pero especialízate.
+ - Elige la opción práctica, no fanatices.
+ - Piensa global.
+ - ¡Haz amigos de tu sector!¡Comunidad!
+   - Nuestro sector es social.
+   - Conoce en proporción sobre metodologías "Agile".
+   - Sé constante.
+   - Actualízate.
+   - Sé una persona de propuesta, no de instrucción.
+   - Todas las empresas quieren personas con iniciativa, más en nuestro sector.
+ - Un portafolio
+
+
+NOTA: por url sólo debe utilizarse una etiqueta h1.
+
+hgroup: aunque digan que se puede no utilizar más de un h1.
+
+span se utiliza para darle a un texto diseño sin usar una caja.
+
+Usar h1 para lo más destacado.
+
+Meta Description para el texto explicativo de un enlace en Google.
+
+Si se puede usar un sólo 1 nav.
+
+La etiqueta <br> se puede usar dentro de un contenido pero no para diseño.
+
+Servidores web
+linode, 1&1, infranetworking
+
+Lo ideal es 320x480 con assert al doble de resolución.
+
+Todos los diseños deben ser elásticos.
+
+No usar meta tag  ni meta keyword. DEsde hace 14 años nada.
+
+CDN Content Delivery Network
+
+SOA + WebServices + XML es de los abuelitos.
+
+APIs + JSON
+
+TAMAÑO DE FUENTE POR DEFECTO PARA QUE SE VEAN BIEN EN TODOS LOS APARATOS
+
+16px
+
+ANTES DE HACER EL CSS HAY QUE NORMALIZAR EL CSS
+
+------------------
+
+Las imágenes de contenido van en HTML y las que son de diseño en CSS.
+
+border-radius: 50% //Si ambos lados son del mismo tamaño con el 50% queda redondo del todo.
+
+overflow:hidden; Adapta el contenedor a los elementos contenidos si estos se han desbordado (p.e. con float).
+
+-------------------
+
+Al aumentar el padding de un elemento a se hace que la zona de clickeo también aumente, que suele ser mejor que dejar sólo el texto como clickeable (cuando es un texto).
+--------------------------
+
+text-shadow: para dar sombra a un texto.
+
+text-shadow: rgba (nRojo, nVerde, nAzul, nTransparencia) nDespXpx nDespYpx nDifuminaciónpx;
+
+
+
