@@ -2,7 +2,7 @@ Responsive Design
 
 Mobile First
 
-En diseño web se habla en píxeles no en dpi/ppi (puntos por pulgada).
+En diseño web se habla en píxeles no en dpi/ppi (puntos por pulgada)
 
 Tres perfiles: Frontend, Backend y Bases de datos
 
@@ -37,3 +37,13 @@ Repositorio de código GitHub (master)
 			--- MERGE(experimental - master)
 		* experimental local
 	* master (servidor.com) REPO PRODUCCION
+
+A la hora de separar por idiomas la página web se deben usar dominios y subdominios, no carpetas:
+
+www.pagina.com/es/ NO
+
+www.es.pagina.com YES
+
+www.pagina.com.es YES
+
+No se pueden usar <meta keywords> YA NO SE UTILIZA.
