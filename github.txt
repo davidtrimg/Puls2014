@@ -57,3 +57,5 @@ REGLAS DE XHTML
 2. Si abro una etiqueta la debo cerrar aunque no tenga contenido, añadiendo al final / antes del >
 3. Todos los atributos van en minúscula y sus valores entre comillas dobles.
 
+Diseño y usabilidad: como lógica de diseño (saber dónde ubicar cada cosa).
+
