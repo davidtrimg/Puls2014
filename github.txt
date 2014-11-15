@@ -2,7 +2,7 @@ Responsive Design
 
 Mobile First
 
-En diseño web se habla en píxeles no en dpi/ppi.
+En diseño web se habla en píxeles no en dpi/ppi (puntos por pulgada).
 
 Tres perfiles: Frontend, Backend y Bases de datos
 
