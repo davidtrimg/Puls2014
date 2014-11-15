@@ -47,3 +47,13 @@ www.es.pagina.com YES
 www.pagina.com.es YES
 
 No se pueden usar <meta keywords> YA NO SE UTILIZA.
+meta tags TAMPOCO
+
+En vez de usar un div para un bloque para meter una imagen hay una etiqueta nueva llamada figure.
+
+REGLAS DE XHTML
+
+1. Todas las etiquetas en minúscula.
+2. Si abro una etiqueta la debo cerrar aunque no tenga contenido, añadiendo al final / antes del >
+3. Todos los atributos van en minúscula y sus valores entre comillas dobles.
+
