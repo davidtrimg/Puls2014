@@ -1,0 +1,39 @@
+Responsive Design
+
+Mobile First
+
+En diseño web se habla en píxeles no en dpi/ppi.
+
+Tres perfiles: Frontend, Backend y Bases de datos
+
+Frontend: html, css (Stylus) y js (jQuery). Parte con la que el usuario interactua. Css también sirve para estilar Java y otros lenguajes. Único lenguajes de programación para Frontend.
+
+Backend: es la parte de programación. PHP, .NET, ASP 3.0, Java, Ruby, Python (Django)
+
+Bases de datos: MySQL (relacional), Postgres, MongoDB (No relacional)
+
+320px es el mínimo para diseñar.
+
+No usar FTP. Usar un sistema de control de versiones.
+
+1. GitHub es la red social de programadores.
+2. Web / Apps
+3. Mucho más fácil usar GIT a través de GitHub.
+
+Repositorio de código GitHub (master)
+
+	Clon local
+		commit - sync
+
+1. Múltiples versiones del mismo código
+2. Cambios Delta (base de datos atómica), no se sube el archivo entero sino lo cambiado. Funcionan también para archivos binarios (fotos, p.e.). Archivos de menos de 10MB.
+3. Historial de cada archivo.
+4. Múltiples personas trabajan sobre el mismo archivo.
+5. CULPA AL CULPABLE.
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
+		* master
+			--- MERGE(experimental - master)
+		* experimental local
+	* master (servidor.com) REPO PRODUCCION
